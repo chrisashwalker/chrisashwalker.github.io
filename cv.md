@@ -8,7 +8,7 @@ GitHub: <https://github.com/chrisashwalker>
 
 - Experienced Lead Software Developer with a strong track record of delivering user-centred digital solutions for the UK public sector.
 - Skilled in technical leadership, mentoring, and full-stack development with Java, C#, Delphi, Python, and JavaScript.
-- Adept at modernising legacy systems, driving continuous improvement, and collaborating across multidisciplinary teams to improve critical services.
+- Adept at modernising legacy systems, driving continuous improvement, and collaborating across multidisciplinary teams to enhance critical services.
 
 ## Professional Experience
 
