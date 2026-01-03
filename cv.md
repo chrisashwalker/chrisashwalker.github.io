@@ -15,7 +15,7 @@ GitHub: <https://github.com/chrisashwalker>
 ### Lead Software Developer | HM Land Registry | Oct 2025 - Present
 
 - Provide technical leadership, coaching, and mentoring to a team of software developers.
-- Lead continuous development of RESTful APIs and microservices to centralise customer request data. Technologies: Java, Spring, OpenShift, Helm.
+- Lead continuous development of RESTful APIs and microservices to centralise customer request data. Technologies: Java, Spring, Python, Kubernetes.
 - Enhance client-server software for the display of land registers, documents and customer data. Technologies: Delphi, PL/1, SQL, DB2.
 
 ### Senior Software Developer | HM Land Registry | Apr 2023 - Sep 2025
